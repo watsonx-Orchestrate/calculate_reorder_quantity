@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://calculate-reorder-quantity.1wpveihz0wfq.us-south.codeengine.appdomain.cloud",
+      "url": "https://calculate-reorder-app.1wrbgjmhze46.us-south.codeengine.appdomain.cloud",
       "description": "Deployment server"
     }
   ],
