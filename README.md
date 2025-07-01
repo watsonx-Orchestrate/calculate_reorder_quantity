@@ -1,4 +1,5 @@
 # calculate_reorder_quantity
+IBM Cloud의 code engine을 통해 바로 배포하여 서비스 함.
 
 https://calculate-reorder-app.1wrbgjmhze46.us-south.codeengine.appdomain.cloud
 https://calculate-reorder-app.1wrbgjmhze46.us-south.codeengine.appdomain.cloud
